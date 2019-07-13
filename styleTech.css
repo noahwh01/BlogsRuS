@@ -1,12 +1,14 @@
 ﻿body
 {
-/*use color if need*/
+background-color: #82C1FF;
 }
 .her {
   text-align: center;
   /*color is the color of the company*/
   color: black;
   /*font if need*/
+  font-family: 'Literata', serif;
+
 }
 article {
   text-align: center;
