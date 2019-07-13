@@ -1,0 +1,28 @@
+﻿body
+{
+
+}
+.her {
+  text-align: center;
+  /*color is the color of the company*/
+  color: black;
+  /*font if need*/
+}
+article {
+  text-align: center;
+  /*color is the color of the company*/
+  /*font if need*/
+}
+.articleheader {
+  text-align: center;
+  font-size: 25px;
+  /*font if need*/
+}
+article: p {
+  text-align: center;
+  /*font if need*/
+}
+article: img {
+  margin-left: auto;
+  margin-right: auto;
+}
